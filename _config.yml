@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Robalar
 tagline:          'A blog...of some description'
-description:      'Articles on code, maths, and anything interesting.'
+description:      ''
 url:              http://robalar.github.io
 baseurl:          /
 
